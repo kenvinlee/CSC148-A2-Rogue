@@ -127,7 +127,8 @@ class Room:
                 self.reveal_tile(radius - 1, x + 1, y - 1)
                 self.reveal_tile(radius - 1, x - 1, y + 1)
                 self.reveal_tile(radius - 1, x - 1, y - 1)
-
+                
         #how to check radius...
+        #should really just be a double for loop - would be more efficient than all the recursive calls
         #start at hero's coordinates, +- radius to x coordinates.
         #for every x coordinate, you +- radius to y coordinate.

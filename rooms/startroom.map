@@ -1,0 +1,20 @@
+MAPSTART
+XXXXXXXXXXXXXXXXXXXXX
+X      X            X
+X      X            X
+X                   X
+XXXXXXXX            X
+X                   X
+X                   X
+X                   X
+X                   X
+X                   X
+XXXXXXXXXXXXXXXXXXXXX
+MAPFINISH
+ITEMS
+Healing Potion,4,0,0,5,12
+Sword++,0,1,0,7,3
+Radius Star,0,0,1,2,2
+MONSTERS
+Troll,4,2,3,7
+ENDFILE

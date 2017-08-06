@@ -1,0 +1,18 @@
+MAPSTART
+XXXXXXXXXXXXXXXXXXXXX
+X                   X
+X      XXXXXXX      X
+X     X             X
+X     X             X
+X      XXXXXX       X
+X            X      X
+X            X      X
+X     XXXXXXX       X
+X                   X
+XXXXXXXXXXXXXXXXXXXXX
+MAPFINISH
+ITEMS
+MONSTERS
+Guardian,3,5,1,7
+Guardian,3,5,1,12
+ENDFILE
